@@ -1,0 +1,13 @@
+{
+    "folders": [
+		{
+			"path": "../upload_pdo"
+		},
+		{
+			"path": "."
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "xickz"
+    }
+}
